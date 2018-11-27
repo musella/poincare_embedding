@@ -11,6 +11,6 @@
    - `scikit-learn` http://scikit-learn.org/
    
 - Notebooks
-   - Read and format data [notebooks/amazon_purchases_read.ipynb]
-   - Train model [notebooks/train_embedding.ipynb]
-   - Inspect results [notebooks/inspect_results.ipynb]
+   - [Read and format data](notebooks/amazon_purchases_read.ipynb)
+   - [Train model](notebooks/train_embedding.ipynb)
+   - [Inspect results](notebooks/inspect_results.ipynb)
